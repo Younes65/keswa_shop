@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="More" transform="translate(-405 -928)">
+    <g id="more_icon" data-name="more icon" transform="translate(405 928)">
+      <path id="Path_1668" data-name="Path 1668" d="M15,0A15,15,0,1,0,30,15,15,15,0,0,0,15,0Zm0,28.125A13.125,13.125,0,1,1,28.125,15,13.125,13.125,0,0,1,15,28.125Z" fill="#b3b3b3"/>
+      <path id="Path_1669" data-name="Path 1669" d="M225.589,224a1.589,1.589,0,1,0,1.589,1.589A1.589,1.589,0,0,0,225.589,224Zm0,1.589" transform="translate(-210.589 -210.589)" fill="#b3b3b3"/>
+      <path id="Path_1670" data-name="Path 1670" d="M337.589,224a1.589,1.589,0,1,0,1.589,1.589A1.589,1.589,0,0,0,337.589,224Zm0,1.589" transform="translate(-315.883 -210.589)" fill="#b3b3b3"/>
+      <path id="Path_1671" data-name="Path 1671" d="M113.589,224a1.589,1.589,0,1,0,1.589,1.589A1.589,1.589,0,0,0,113.589,224Zm0,1.589" transform="translate(-105.294 -210.589)" fill="#b3b3b3"/>
+    </g>
+  </g>
+</svg>
